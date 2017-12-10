@@ -1,0 +1,12 @@
+{
+    "name": "Object Analyzer",
+    "version": "0.0.1",
+    "description": "A console to inspect JS objects",
+    "devtools_page": "analyzer.html",
+    "manifest_version": 2,
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
